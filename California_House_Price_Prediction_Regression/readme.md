@@ -1,4 +1,6 @@
 # California Housing Price Prediction
+![image](https://github.com/user-attachments/assets/ba9a6e4c-778c-4381-870d-46f2f2fda24f)
+
 
 ## 📌 Project Overview
 This project involves building predictive models to estimate California housing prices based on various features such as median income, total rooms, population, and more. The dataset is sourced from Kaggle's California housing dataset.
